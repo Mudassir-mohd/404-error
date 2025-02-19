@@ -2,7 +2,9 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-image: url("https://i.pinimg.com/736x/78/fd/26/78fd26cfcc9e60fb60200c4ab2c4dc94.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
